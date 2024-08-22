@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE person[
+
+<!ELEMENT person ( name , age , DOB , qualification , gender )>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT DOB (#PCDATA)>
+<!ELEMENT qualification (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+
+]>
+
+<person>
+
+<name> UROOSHA </name>
+<age> 18 </age>
+<DOB> OCT 22,2005 </DOB>
+<gender> FEMALE </gender>
+<qualification> INTERMEDIATE </qualification>
+
+</person>

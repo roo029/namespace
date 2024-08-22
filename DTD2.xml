@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE biodata[
+
+<!ELEMENT biodata ( id , name , age , qualification , skill , hobby )>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT qualification (#PCDATA)>
+<!ELEMENT skill (#PCDATA)>
+<!ELEMENT hobby (#PCDATA)>
+
+]>
+
+<biodata>
+
+<id> Watermelon </id>
+<name> Uroosha </name>
+<age> 18 </age>
+<qualification> INTERMEDIATE </qualification>
+<skill> CALLIGRAPHY </skill>
+<hobby> SKETCHING </hobby>
+
+</biodata>

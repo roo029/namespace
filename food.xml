@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<food-menu>
+
+<food xmlns:a="http:///www.foody.com">
+
+<a:foodid>spicy</a:foodid>
+<a:foodname>Spaghetti</a:foodname>
+<a:description>Spicy spaghetti with cheese and chilli sause toping</a:description>
+<a:price>Rs:1200/-</a:price>
+
+</food>
+
+
+
+<food xmlns:b="http:///www.foody.com">
+
+<b:foodid>sweet</b:foodid>
+<b:foodname>Nuttela Brownie</b:foodname>
+<b:description>Nuttela brownie with extra nuttela toping</b:description>
+<b:price>Rs:1000/-</b:price>
+
+</food>
+
+
+
+<food xmlns:c="http:///www.foody.com">
+
+<c:foodid>sweet and sour</c:foodid>
+<c:foodname>Buffalo Chicken Wings</c:foodname>
+<c:description>Sweet and sour chicken wings with sugary and buffalo sause toping </c:description>
+<c:price>Rs:2000/-</c:price>
+
+</food>
+
+
+
+<food xmlns:d="http:///www.foody.com">
+
+<d:foodid>sweet</d:foodid>
+<d:foodname>Lava cake</d:foodname>
+<d:description>Lava cake with single scope of vanila icecream</d:description>
+<d:price>Rs:1600/-</d:price>
+
+</food>
+
+</food-menu>

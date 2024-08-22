@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bookstore>
+
+<book id='1'>
+
+<bookname> HARRY POTTER </bookname>
+<genre> adventure </genre>
+<releasedate> Aug24,2024 </releasedate>
+
+</book>
+
+<book id='2'>
+
+<bookname> ALICE IN THE WONDERLAND </bookname>
+<genre> fiction </genre>
+<releasedate> Sep12,2025 </releasedate>
+
+</book>
+
+<book xmlns:a="http:///www.tommorow.com">
+
+<a:bookname> PIRATES </a:bookname>
+<a:genre> action </a:genre>
+<a:releasedate> Oct20,2026 </a:releasedate>
+
+</book>
+
+<book xmlns:b="http:///www.today.com">
+
+<b:bookname> PETTER PEN </b:bookname>
+<b:genre> comedy </b:genre>
+<b:releasedate> Nov30,2028 </b:releasedate>
+
+</book>
+
+</bookstore>

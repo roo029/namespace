@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE student[
+
+<!ELEMENT student ( id , name , grade , age , gender )>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT grade (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+
+]>
+
+<student>
+
+<id>dount</id>
+<name> UROOSHA </name>
+<grade> 12th </grade>
+<age> 18 </age>
+<gender> FEMALE </gender>
+
+</student>
